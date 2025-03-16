@@ -1,4 +1,4 @@
-# SpaCy NER Training on NCBI Disease Dataset
+## SpaCy NER Training on NCBI Disease Dataset
 
 ## Overview
 This project trains a Named Entity Recognition (NER) model using **SpaCy** on the **NCBI Disease dataset**. The model is trained to recognize disease-related entities.
