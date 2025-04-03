@@ -7,7 +7,7 @@ from spacy.training.example import Example
 from spacy.util import minibatch
 from sklearn.metrics import classification_report
 from collections import Counter
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template 
  
 # # Step 1: Load the dataset
 # ds = load_dataset("ncbi/ncbi_disease", trust_remote_code=True)
